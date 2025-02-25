@@ -22,7 +22,7 @@ The script consists of the following steps:
 4. Run `uv run python main.py` in the terminal
 
 ## Data and Results
-- [`examples.json`](examples.json): Questions used for model evaluation 
+- [`questions.json`](questions.json): Questions used for model evaluation 
 
 - [`responses_deepseek-r1-distill-qwen-7b.jsonl`](responses_deepseek-r1-distill-qwen-7b.jsonl): Answers from DeepSeek R1 7B model
 
